@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 # Expense-Tracker-Mern
 A fully-featured Expense-Tracker WebApp , built with the MERN stack.
 
@@ -40,7 +41,9 @@ cd social-media-app
 cd frontend
 npm start
 ```
-=======
+
 # Expense-tracker
 >>>>>>> 4c6853cf5e594a8c89650537ea55bb70d8c759c7
 "# Expense-Tracker-Mern" 
+# Expense-Tracker-Mern
+>>>>>>> cd161de2bdf7ec5e0e2f09c5126ff89709cb8645
